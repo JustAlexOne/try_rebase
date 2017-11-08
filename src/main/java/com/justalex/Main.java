@@ -10,4 +10,7 @@ public class Main {
         System.out.println("Bye-bye");
     }
 
+    public static void sayYourSmth(String smth) {
+        System.out.println(smth);
+    }
 }
