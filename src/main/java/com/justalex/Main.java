@@ -6,4 +6,8 @@ public class Main {
         System.out.println("Main");
     }
 
+    public static void sayGoodBye() {
+        System.out.println("Bye-bye");
+    }
+
 }
